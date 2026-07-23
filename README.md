@@ -2,3 +2,4 @@
 Learning github
 
 Something plain text
+Commit plain text!
